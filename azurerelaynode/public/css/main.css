@@ -1,0 +1,61 @@
+.title{
+  font-weight: bold;
+  display: inline-block;
+  margin: 0;
+  padding: 10px;
+  color: white;
+}
+
+.header{
+  display: inline-block;
+  background-color: #141d34;
+  width: 100%;
+  height: 50px;
+}
+
+.highlight{
+  font-family: 'Advent Pro';
+}
+
+.logo{
+  position: fixed;
+  width: 200px;
+  right: 10px;
+  top: 20px;
+}
+
+body {
+  font-family: 'Open Sans';
+  color: #7f8c8d;
+  font-size: 14px;
+  background-color: #ededed;
+}
+
+.map {
+  float:left;
+}
+
+.next-buses {
+  float:left;
+  padding: 15px;
+}
+
+.next-buses ul {
+  padding: 0;
+  list-style : none;
+}
+
+.next-buses ul span {
+  font-weight: bold;
+}
+
+.emtlogo {
+  position:fixed;
+  left: 0;
+  bottom : 0;
+}
+
+.emtlogo img {
+  height: 60px;
+  width: 60px;
+}
