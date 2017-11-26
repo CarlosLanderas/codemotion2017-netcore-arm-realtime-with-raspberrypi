@@ -2,7 +2,6 @@
 
 
 **Source code for Codemotion 2017 talk**
-** A real time application that broadcasts real time buses position in madrid from raspberry pi, using Azure Relay Hybrid connections service as broadcasting service*
+** A real time application that broadcasts real time buses position in madrid from raspberry pi, using Azure Relay Hybrid connections service as broadcasting service**
 
-*
 **Authors:** Carlos Landeras & Rodrigo Cabello
