@@ -1,4 +1,4 @@
-<img src="http://blog.codemotion.es/content/images/2015/11/CDM_2013_logo_extended_web--2-.png" width="450" height="240"></img>
+<img src="http://blog.codemotion.es/content/images/2015/11/CDM_2013_logo_extended_web--2-.png" width="500" height="180"></img>
 
 
 **Source code for Codemotion 2017 talk**
