@@ -6,6 +6,6 @@
  
  This application uses  Azure Relay Hybrid connections service as broadcasting service and the program that has the listener role is developed with Node Js.
  
- The frontend is a little application developed with React 16 
+ The frontend is a little application developed with React 16 in combination with Google Maps.
 
 **Authors:** Carlos Landeras & Rodrigo Cabello
