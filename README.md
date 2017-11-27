@@ -1,6 +1,11 @@
-<img src="http://dotnetmalaga.es/2017/images/Logo_dotnetmlg_full_color_2tintas_2.png" width="240" height="240"></img>
+<img src="http://blog.codemotion.es/content/images/2015/11/CDM_2013_logo_extended_web--2-.png" width="400" height="100"></img>
 
+**Source code for Codemotion 2017 talk**
 
-**Source code for Azure Relay with Raspberry PI talk in dotnet malaga 2017**
+ A real time application that broadcasts buses position in madrid from raspberry pi using .net core 2.0 (C#) and published with ARM architecture to execute it in Raspbian Stretch version. 
+ 
+ This application uses  Azure Relay Hybrid connections service as broadcasting service and the program that has the listener role is developed with Node Js.
+ 
+ The frontend is a little application developed with React 16 in combination with Google Maps.
 
 **Authors:** Carlos Landeras & Rodrigo Cabello
